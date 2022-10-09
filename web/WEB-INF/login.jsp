@@ -22,7 +22,7 @@
         </form>
         
           <c:if test="${invalid == true}">
-              <p>Invalid entry. try again lil bro...</p>
+              <p>Invalid entry. try again...</p>
           </c:if>
     </body>
 </html>
